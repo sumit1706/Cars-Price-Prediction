@@ -1,6 +1,6 @@
 # Cars-Price-Prediction
-Linear Regression Model that predicts price of cars based on various features and attributes.(            
-fueltype, 
+Linear Regression Model that predicts price of cars based on various features and attributes.
+( fueltype, 
 aspiration, 
 doornumber, 
 carbody, 
